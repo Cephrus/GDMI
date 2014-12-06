@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gdmi",
+  "name": "Guided Dynamic Mod Installer",
+  "description": "Dynamically Installs Mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cephrus"],
+  "credits": "The Forge and FML guys, for Forge and FML respectively.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
